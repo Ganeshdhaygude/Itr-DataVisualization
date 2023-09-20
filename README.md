@@ -9,7 +9,7 @@ To get started, clone the repository and install the dependencies.
 
 
 
-git clone https://github.com/Ronaksharma57/interactive-data-visualization.git
+git clone https://github.com/Ganeshdhaygude/Itr-DataVisualization.git
 cd interactive-data-visualization
 npm install
 
